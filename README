@@ -12,6 +12,6 @@ Copy over the latest common files using
 == Install
 This directory is rails application to deploy.
 
-Be sure to install the rail-2.1.2 gem
+Be sure to install the rail gem version listed in Gemfile.
 
 cary@rightscale.com
